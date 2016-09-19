@@ -28,6 +28,13 @@ paricle serial monitor
 
 It should print out the currently configured credentials (without passwords) and any Wi-Fi networks in range along with their channel numbers, encryption types and signal strength (RSSI). It will repeat every 10 seconds.
 
+```
+available access points:
+SSID=Network 1 security=wpa2 channel=1 rssi=-73
+SSID=Network 2 security=wpa2 channel=11 rssi=-62
+SSID=Network 3 security=wpa2 channel=6 rssi=-55
+```
+
 Copy and paste this information and include it in your support ticket.
 
 ## Restore normal firmware
