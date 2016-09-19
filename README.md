@@ -6,7 +6,7 @@ You must have a working [Particle CLI] (https://particle.io/cli) installation be
 
 ## Install the debugging firmware
 
-Download the [wifidebug.bin] (https://github.com/rickkas7/wifidebug/blob/master/wifidebug.bin) file. 
+Download the [wifidebug.bin] (https://github.com/rickkas7/wifidebug/blob/master/wifidebug.bin?raw=true) file. 
 
 Put the Photon in DFU mode (blinking yellow) by holding down the RESET and SETUP buttons, then release RESET. Continue to hold down SETUP while it blinks magenta until it blinks yellow, then release.
 
